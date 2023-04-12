@@ -1,7 +1,7 @@
 # Firewall, Proxy e DMZ
 ## Il Personal Firewall
 Il Firewall è un servizio progettato per fornire sicurezza ad una rete. 
-E' un programma installato sul prorpio PC che lo protegge da attacchi esterni, solitamente di default il traffico in uscita è consentito mentre quello in entrata.  
+E' un programma installato sul proprio PC che lo protegge da attacchi esterni, solitamente di default il traffico in uscita è consentito mentre quello in entrata è vietato di default.  
 
 ## Il Network Firewall (perimetrale)
 Ha almeno due interfacce di rete sulle quali il processo effettua il controllo, anche in questo caso una delle due interfacce è posizionata sulla propria rete privata e l’altra sulla rete pubblica.
