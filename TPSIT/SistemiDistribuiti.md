@@ -50,13 +50,13 @@ LA classica architettura studiata fino ad oggi, dove dei *client* non stupidi ch
 ### **Architettura WEB-centric**
 Sistemi che virano verso la centralità del web rimuovendo sempre più operazioni da eseguire ai client. Degli esempi possono essere il registro elettronico e Google Docs
 
-###**Architettura cooperativa**
+### **Architettura cooperativa**
 Viene utilizzato il principio di incapsulamento della programmazione a oggetti per abbattere le differenze tra i prodotti usati nell'infrastruttura hardware, software, di programmazione e di rete di un *sistema distribuito*
 
-###**Architettura completamente distribuita**
+### **Architettura completamente distribuita**
 E' un tipo di architettura in opposizione alla WEB-centric. Gruppi di computer collaborano richiedendo e offrendo servizi spesso ridondati
 
-###**Architettura a livelli**
+### **Architettura a livelli**
 In questa architettura vengono introdotte le applicazioni multilivello, nelle quali avviene la separazione delle funzionalità logiche del software in più livelli.
 Si introducono gli strumenti di middleware; troviamo diverse funzionalità:
 - Servizi di astrazione e cooperazione
