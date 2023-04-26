@@ -31,10 +31,13 @@ Sistemi che integrano sistemi legacy, molto vecchi ma ancora funzionali, con nuo
 Nuova generazione di sistemi che hanno tipicamente connessioni wireless che possono servire anche a monitorare la salute in vari aspetti. Degli esempi sono smartwatch e holter cardiaci
 
 ### **Classificazione di Flynn**
-- SISD: Singola Istruzione su singolo dato(Macchina Von Neumann)
-- SIMD: Singola Istruzione su multipli dati(Scheda Video)
-- MISD: Multiple Istruzioni su singolo dato(Crittografia)
-- MIMD: Multiple Istruzioni su multipli dati(Database)
+- **SISD**: Singola Istruzione su singolo dato(Macchina Von Neumann)
+- **SIMD**: Singola Istruzione su multipli dati(Scheda Video)
+- **MISD**: Multiple Istruzioni su singolo dato(Crittografia)
+- **MIMD**: Multiple Istruzioni su multipli dati(Database)
+  che si possono suddividere in:
+  - **Multiprocessor**: *è presente una memoria soltanto*, condivisa totalmente o parzialmente da tutti i processori.
+  - **Multicomputer**: non hanno una memoria condivisa, quindi la condivisione dei dati avviene tramite dei messaggi, effettuati grazie alle procedure di *send* e *recive*.
 
 ### **Architetture**
 **Architettura WEB-centric**
