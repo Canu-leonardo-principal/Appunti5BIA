@@ -54,3 +54,5 @@ Si introducono gli strumenti di middleware; troviamo diverse funzionalità:
 - Servizi di amministrazione del sistema
 - Il Servizio di comunicazione
 - L'ambiente di sviluppo applicativo
+<br><br>
+by **Gioele Falachi** *5B-IA*
