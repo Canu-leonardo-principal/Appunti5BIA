@@ -39,7 +39,7 @@ Inoltre egli riprende e riorganizza la produzione novellistica in un’opera nom
 
 Subito dopo il delitto Matteotti Pirandello **si iscrive al partito fascista** essendo un movimento rivoluzionario capace di rompere le **cristallizzazioni sociali**, inoltre il fascismo di Pirandello è **viscerale ed umorale e ricolmo di forti delusioni**. Grazie alla sua adesione otterrà finanziamenti da Mussolini utili per la sua produzione. Inoltre conosce **Marta Abba** una giovane alla quale si lega sentimentalmente in un misto tra innamorato e padre protettore, a causa di ciò scriverà vari drammi.
 
-**Stagione del Surrealismo**
+## Stagione del Surrealismo
 
 Nel 1926 viene pubblicato “uno, nessuno e centomila” da qui in avanti compare in Pirandello una tematica surrealista dove si valuta e privilegia la “**vita**” , vista come energia primitiva ad esempio inconscio **contro la forma**, ovvero norme e consuetudini. Inoltre si va a valutare positivamente **il mondo dei miti e dei simboli contro la realtà delle convenzioni razionali e sociali**.
 
