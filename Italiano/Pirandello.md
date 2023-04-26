@@ -11,7 +11,7 @@ La formazione di Pirandello è influenzata da molti fattori:
 
 - **L’ambiente siciliano** che impatta sulla fisionomia psicologica, politica e sociale (tessuto folcloristico).
 - **L’educazione al patriottismo ed al culto dei valori risorgimentali**.
-- L’iscrizione all**’Università di Palermo** dove entra in contatto con un ceto intellettuale attraversato da **fermenti anarchici ed esigenze socialiste**, Pirandello nonostante la vena sovvertista, non accetta totalmente le soluzioni irrazionalistiche dei giovani, anzi per lui in tutti gli aspetti permane un elemento di **razionalità e moralità**.
+- L’iscrizione all’ **Università di Palermo** dove entra in contatto con un ceto intellettuale attraversato da **fermenti anarchici ed esigenze socialiste**, Pirandello nonostante la vena sovvertista, non accetta totalmente le soluzioni irrazionalistiche dei giovani, anzi per lui in tutti gli aspetti permane un elemento di **razionalità e moralità**.
 - **Il rapporto con il padre**, vive questo rapporto dove la personalità brusca del padre e i vari fallimenti di Pirandello, come quello di lavorare nell’amministrazione delle miniere di zolfo, vive quindi questo **senso di inettitudine**.
 - **L’ambiente romano dove incontra Capuana** e matura quindi una **vocazione letteraria**.
 - Laurea (filologia romanza) e Relazione in Germania a **Bonn**.
