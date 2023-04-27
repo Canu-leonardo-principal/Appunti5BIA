@@ -67,4 +67,6 @@ Si introducono gli strumenti di middleware; troviamo diverse funzionalità:
 
 
 <br><br>
-by **Gioele Falachi** *5B-IA*
+by **Gioele Falaschi** *5B-IA*
+
+**Feat. Leonardo Canu**
