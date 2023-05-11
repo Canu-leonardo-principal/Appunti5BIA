@@ -70,5 +70,50 @@ grado di sicurezza che garantiscono, in tre categorie:
 - **Hybrid VPN**: si affida tanto all’ISP quanto ai protocolli per la sicurezza
     - Lo scenario tipico è quello di un’azienda che ha già una Trusted VPN e desidera sicurezza su una parte della VPN e dunque crea una Hybrid VPN.
 
+## Protocolli VPN
+I principali protocolli per la sicurezza sono IPsec, SSL/TLS e BGP/MPLS (*Ancora non fatto*)
+
+### IPsec
+E' un gruppo di protocolli che garantisce autenticazione, segretezza, integrità:
+- **IKE(Internet Key Exchange)**: Implementa autenticazione e scambio delle chiavi per realizzare il flusso crittografato
+- **AH(Authentication Header)**: Garantisce l'autenticazione e l'integrità del messaggio, ma non offre la confidenzialità. Autentica l'intero pacchetto IP a eccezione dei campi variabili nell'header
+- **ESP(Encapsulating Security Payload)**: Fornisce autenticazione, segretezza ed integrità del messaggio
+AH e ESP sono alternativi, si possono utilizzare o uno o l'altro dal momento che la confidenzialità è un fattore critico nelle VPN, infatti viene utilizzato di più ESP
+#### IKE
+IKE è un protocollo di livello 7 ed opera sulla porta UDP 500; agisce in due fasi:
+1. Inizialmente i due capi si autenticano con lo scambio delle chiavi. Appena si conclude viene condivisa una chiave segreta simmetrica per cifrare le comunicazioni successive
+2. Viene stabilita una SA(Security Association) comune che permette di condividere i meccanismi di sicurezza da utilizzare
+*Abbiamo detto che IKE utilizza UDP, tuttavia sfrutta un servizio affidabile, quando non riceve risposta, ritrasmette*
+L'SA contiene i seguenti elementi:
+- IP di destinazione
+- Il protocollo IPsec utilizzato
+- SPI(Security Parameter Index): specifica il protocollo di hashing
+Le SA sono unidirezionali, quindi ci devono essere due SA per garantire la comunicaziuone tra due host. Quando sono attive su un host sono condivise su un database detto SA Database o SAD. Inoltre è presente un'ulteriore database, detto SPD che contiene le politiche di sicurezza. Con questi due strumenti riusciamo a decidere se dobbiamo scartare un pacchetto, elaborarlo tramite IPsec o se lasciarlo passare.
+
+#### AH
+Oltre a ciò scritto prima, AH garantisce anche la difesa da attacchi di tipo replay. Nelle modalità tunnel l'intero pacchetto originale viene incapsulato in un nuovo pacchetto, venendo quindi autenticato. Il campo dell'header AH prende il nome di SPI.
+
+#### ESP
+Pure questo protegge da attacchi di tipo replay. La differenza con AH sta nel fatto che l'autenticazione non copre anche l'header IP esterno. Aggiunge un header e un trailer perché incapsula tutti i dati che protegge. Anche nell'header ESP è presente il campo SPI, in più è presente un campo authentication che contiene i dati per autenticare il pacchetto.
+Nella modalità tunnel il pacchetto viene completamente cifrato con algoritmo e chiave stabiliti da IKE
+
+### SSL/TLS
+E' un protocollo che opera al di sopra del livello TCP e deriva dal protocollo SSL. SSL/TLS è composto da due livelli:
+1. Record Protocol: Livello 4, crea i pacchetti dei dati di applicazione con cifratura simmetrica ed integrità. I pacchetti saranno incapsulati in TCP
+2. Handshake Protocol: Livello 7, si occupa della fase di negoziazione. E' necessario stabilire una chiave di sessione per cifrare la comunicazione
+SSL/TLS è un semplice protocollo client-server che ha lo scopo di autenticare il server da parte del client; opzionalmente anche il contrario. TLS fornisce l'autenticazione tramite certificati digitali detti CA(Certification Authority).
+La fase di record non fa altro che applicare le operazioni negoziate e frammenta i pacchetti; opzionalmente li comprime.
+### TLS vs IPsec
+SSL/TLS consente l'autenticazione asimmetrica, autenticare il server senza autenticare il client, mentre IKE di IPsec costringe l'autenticazione reciproca.
+SSL/TLS protegge la comunicazione tra applicazioni, IPsec rende sicuro il traffico tra host o tra intere sottoreti.
+IPsec protegge tutto ciò che sta sopra IP, mentre SSL/TLS funziona solo per proteggere il traffico TCP
+
+
+
+
+
+
+![Ale144p](https://github.com/Canu-leonardo-principal/Appunti5BIA/assets/94641181/e252d7ca-ff7a-4273-b3b7-7f53c0c91c8e)
 <br><br>
-by ***Leonardo Canu*** *5B-IA*
+by ***Leonardo Canu*** & ***Gioele Falaschi*** *5B-IA*
+feat ***Davide Cazzato***
