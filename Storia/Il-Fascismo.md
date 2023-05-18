@@ -84,8 +84,7 @@ Tramite l'utilizzo della propaganda e dei nuovi mezzi di comunicazione, come la 
 
 ## L'omicidio Matteotti
 Mussolini ha necessità di una legge che rimuova potere ai partiti di opposizione. Tuttavia i difensori delle regole democratiche capitaneggiati da don Luigi Sturzo si oppongono e non viene approvato nessun provvedimento.
-Mussolini si rivolge con intimidazioni ai propri oppositori e inizia delle trattative con la chiesa. L'azione combinata di un rinnovato squadrismo (omocidi in qua e là di esponenti cattolici e altri difensori della democrazia) e di patti con il papa, permette Mussolini di ottenere la dimissione di ministri popolari dal Governo e di Sturzo stesso. Grazie a ciò viene fatta approvare la legge Acerbo che prevedeva:
-- Il partito con la maggioranza relativa avrebbe avuto in qualsiasi caso due terzi dei seggi parlamentari a patto che non raccogliesse meno del 25% delle preferenze.
+Mussolini si rivolge con intimidazioni ai propri oppositori e inizia delle trattative con la chiesa. L'azione combinata di un rinnovato squadrismo (omocidi in qua e là di esponenti cattolici e altri difensori della democrazia) e di patti con il papa, permette Mussolini di ottenere la dimissione di ministri popolari dal Governo e di Sturzo stesso. Grazie a ciò viene fatta approvare la legge Acerbo che prevedeva che il partito con la maggioranza relativa avrebbe avuto in qualsiasi caso due terzi dei seggi parlamentari a patto che non raccogliesse meno del 25% delle preferenze.
 Le nuove elezioni vengono stravinte dal Partito Nazionale Fascista, con il 64,9% dei voti.
 E' importante notare che la campagna elettorale di queste elezioni si svolgono in un clima di violenza, intimidazioni e corruzione che andarono a spese di cattolici e socialisti.
 Matteotti documenta queste illegalità e le divulga in Belgio e Inghilterra. Inoltre le denuncia alla Camera opponendosi fortemente al fascismo tenendo un discorso che contestava la validità delle elezioni.
