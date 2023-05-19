@@ -83,15 +83,14 @@ Inoltre venne riorganizzata la scuola, grazie alla **Riforma Gentile** che la su
 Tramite l'utilizzo della propaganda e dei nuovi mezzi di comunicazione, come la radio, Mussolini intraprese anche un'opera di condizionamento della cultura popolare, cercando di forgiare un perfetto fascista. 
 
 ## L'omicidio Matteotti
-Mussolini ha necessità di una legge che rimuova potere ai partiti di opposizione. Tuttavia i difensori delle regole democratiche capitaneggiati da don Luigi Sturzo si oppongono e non viene approvato nessun provvedimento.
-Mussolini si rivolge con intimidazioni ai propri oppositori e inizia delle trattative con la chiesa. L'azione combinata di un rinnovato squadrismo (omocidi in qua e là di esponenti cattolici e altri difensori della democrazia) e di patti con il papa, permette Mussolini di ottenere la dimissione di ministri popolari dal Governo e di Sturzo stesso. Grazie a ciò viene fatta approvare la legge Acerbo che prevedeva che il partito con la maggioranza relativa avrebbe avuto in qualsiasi caso due terzi dei seggi parlamentari a patto che non raccogliesse meno del 25% delle preferenze.
-Le nuove elezioni vengono stravinte dal Partito Nazionale Fascista, con il 64,9% dei voti.
+Mussolini ha necessità di una legge che rimuova potere ai partiti di opposizione. Tuttavia i difensori delle regole democratiche capitaneggiati da don Luigi Sturzo si oppongono e non viene approvato nessun provvedimento.<br>Mussolini si rivolge con intimidazioni ai propri oppositori e inizia delle trattative con la chiesa. L'azione combinata di un rinnovato squadrismo (omocidi in qua e là di esponenti cattolici e altri difensori della democrazia) e di patti con il papa, permette Mussolini di ottenere la dimissione di ministri popolari dal Governo e di Sturzo stesso. Grazie a ciò viene fatta approvare la legge Acerbo che prevedeva che il partito con la maggioranza relativa avrebbe avuto in qualsiasi caso due terzi dei seggi parlamentari a patto che non raccogliesse meno del 25% delle preferenze.<br>
+Le nuove elezioni vengono stravinte dal Partito Nazionale Fascista, con il 64,9% dei voti.<br>
 E' importante notare che la campagna elettorale di queste elezioni si svolgono in un clima di violenza, intimidazioni e corruzione che andarono a spese di cattolici e socialisti.
 Matteotti documenta queste illegalità e le divulga in Belgio e Inghilterra. Inoltre le denuncia alla Camera opponendosi fortemente al fascismo tenendo un discorso che contestava la validità delle elezioni.
-Il suo corpo viene ritrovato poco dopo.
+Il suo corpo viene ritrovato poco dopo.<br>
 Alcuni fascisti iniziano a prendere le distanze, creando una piccola frattura nell'enorme colosso.
 Anche diversi partiti di opposizione protestano contro il governo inneggiando al ripristino della legalità e interrompendo gli incarichi parlamentari.
-Questo evento prende il nome di **Secessione dell'Aventino**.
+Questo evento prende il nome di **Secessione dell'Aventino**.<br>
 Tuttavia la partecipazione non è molta e quindi non si ha l'effetto sperato.
 Mussolini tiene un discorso in Camera assumendosi la colpa del delitto Matteotti sfidando il Parlamento a riostacolarlo minacciandolo.
 Da questo momento Mussolini diventa capo indiscusso dello Stato, dando inizio all'era del Fascismo vero e proprio.
