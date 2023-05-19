@@ -123,6 +123,7 @@ Tali patti sono formati da:
 - Il trattato: che si impegnava a riconoscere il Vaticano come Stato indipendente e che la Chiesa riconosceva Roma come capitale dello Stato italiano. 
 - Il concordato: la chiesa impedisce ai suoi membri la partecipazione alla vita politica. Si ha l'introduzione della materia religione cattolica obbligatoria in       tutte le scuole e il riconoscimento degli effetti civili del matrimonio religioso.
 - La convenzione finanziaria: lo Stato da alla Chiesa un riasrcimento a danni causati durante il processo di unificazione.
+
 Con la firma di tali patti Mussolini raggiunge il vertice della popolarità personale, facendo raggiungere al regime la massima sicurezza e portando allo 
 smantellamento dello Stato liberale.
 
