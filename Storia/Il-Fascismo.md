@@ -95,20 +95,20 @@ Tuttavia la partecipazione non è molta e quindi non si ha l'effetto sperato.
 Mussolini tiene un discorso in Camera assumendosi la colpa del delitto Matteotti sfidando il Parlamento a riostacolarlo minacciandolo.
 Da questo momento Mussolini diventa capo indiscusso dello Stato, dando inizio all'era del Fascismo vero e proprio.
 
-##Il regime dittatoriale fascista
+## Il regime dittatoriale fascista
 Dal 1925 al 1929 sono gli anni che caratterizzano questo regime autoritario fascista. <br>
 In questo stesso periodo vengono emanate delle leggi con lo scopo di eliminare ogni minaccia rivolta al regime, dette **Leggi Fascistissime**.
 Tra alcuni punti caratterizzanti possiamo vedere:
--Abolizione della libertà di stampa.
--Abolizione del diritto di sciopero e scioglimento delle organizzazioni sindacali indipendenti.
--Abolizione della libertà di associazione.
--Creazione dell'**Ovra**, cioé la polizia politica segreta, con l'obbiettivo di indagare sui possibili oppositori del fascismo.
+- Abolizione della libertà di stampa.
+- Abolizione del diritto di sciopero e scioglimento delle organizzazioni sindacali indipendenti.
+- Abolizione della libertà di associazione.
+- Creazione dell'**Ovra**, cioé la polizia politica segreta, con l'obbiettivo di indagare sui possibili oppositori del fascismo.
 
 Lo stato e il partito fascista vengono resi indistinguibili portando quindi così ad avere lo stesso capo, conosciuto con il nome di **duce** e capo del governo.
 
 Lo stesso periodo è caratterizzato da un breve rinnovato squadrismo che porta ad un antifascismo consapevole e tenace che non possiede per adesso i mezzi necessari per sconfiggere Mussolini.
 
-##Consolidamento dell'economia
+## Consolidamento dell'economia
 La prima fase è caratterizzata da una politica economica liberista, che aveva l'obbiettivo di raccogliere consensi nella borghesia imprenditoriale e finanziaria.
 Tale politica si attua soprattutto attraverso alcuni decreti-legge, tra i quali ribadiscono il divieto di sciopero, riprendendo l'obbettivo riportato sopra.
 A partire dagli anni Venti Mussolini rinuncia a questa politica liberista per favorire un maggiore intervento dello Stato in campo economico
@@ -116,13 +116,13 @@ A caratterizzare questa seconda fase detto, "Periodo Statalista", vediamo l'ordi
 Per risolvere il problema dell'infalzione invece, tale periodo si concentra sulla rivalutazioni della moneta basata su diminuizione dei salari e restrizione del credito.
 Da un punto di vista di risorse, Mussolini aveva come obbiettivo quello di raggiungere un'autosufficenza alimentare, cioé incentivare la produzione di cereali e basare il consumo della popolazione su di essi.
 
-##Patti lateranensi
+## Patti lateranensi
 Come già detto Mussolini si concentra sul rendere il cattolicesimo uno dei punti fulcro del suo regime, per perseguire tale obbiettivo viene attuata una pacificazione tra stato e chiesa, attraverso dei patti detti
 patti lateranensi.
 Tali patti sono formati da:
--Il trattato: che si impegnava a riconoscere il Vaticano come Stato indipendente e che la Chiesa riconosceva Roma come capitale dello Stato italiano. 
--Il concordato: la chiesa impedisce ai suoi membri la partecipazione alla vita politica. Si ha l'introduzione della materia religione cattolica obbligatoria in       tutte le scuole e il riconoscimento degli effetti civili del matrimonio religioso.
--La convenzione finanziaria: lo Stato da alla Chiesa un riasrcimento a danni causati durante il processo di unificazione.
+- Il trattato: che si impegnava a riconoscere il Vaticano come Stato indipendente e che la Chiesa riconosceva Roma come capitale dello Stato italiano. 
+- Il concordato: la chiesa impedisce ai suoi membri la partecipazione alla vita politica. Si ha l'introduzione della materia religione cattolica obbligatoria in       tutte le scuole e il riconoscimento degli effetti civili del matrimonio religioso.
+- La convenzione finanziaria: lo Stato da alla Chiesa un riasrcimento a danni causati durante il processo di unificazione.
 Con la firma di tali patti Mussolini raggiunge il vertice della popolarità personale, facendo raggiungere al regime la massima sicurezza e portando allo 
 smantellamento dello Stato liberale.
 
