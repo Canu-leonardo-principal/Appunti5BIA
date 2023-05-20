@@ -84,7 +84,7 @@ I 14 punti di Wilson erano una dichiarazione principalmente contro gli isolazion
 - chiedevanoabolizione diplomazia segreta
 - proponevano una soluzione alle questioni coloniali
 - parlavano di un nuovo ipotetico asseto europeo
-- auspicavano la creazione della **Sdn** o società delle nazioni
+- auspicavano la creazione della **Sdn** o società delle nazioni <a id="Sdn"></a>
 
 Questa dichiarazione portò molto entusiasmo all'interno degli statidell'intesa, mentre quelli dell'altra fazione **cominciarono a mutare le proprie strategie**, preparandosi all'arrivo dei rinforzi americani. 
 
