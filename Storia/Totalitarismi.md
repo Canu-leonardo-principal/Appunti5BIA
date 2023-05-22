@@ -60,6 +60,8 @@ I partiti comunisti europei si alleano con quelli disposti a combattere la ditta
 L'Uinione Sovietica entra nelle Società delle Nazioni e si allea con la Francia.
 
 By **Gioele Falaschi, Leonardo Canu, Enrico Marinelli**
+<br>
+<br>
 feat. **Davide Cazzato?!**
 
 ![DavideSiSmaschera](https://github.com/Canu-leonardo-principal/Appunti5BIA/assets/94641181/1cfd6fd6-1a00-4f2d-9d61-b59c97069d08)
