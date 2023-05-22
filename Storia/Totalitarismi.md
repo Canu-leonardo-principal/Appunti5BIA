@@ -1,4 +1,4 @@
-# Totalitarismi
+# Stalinismo e totalitarismi in generale
 
 ### Definizione di totalitarismo
 > Il leader di un regime totalitario esprime l'intenzione di subordinare l'intera vita sociale e culturale del paese allo Stato
