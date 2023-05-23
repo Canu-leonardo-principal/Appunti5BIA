@@ -49,7 +49,36 @@ Ci si pone l'obiettivo di plasmare un uomo nuovo, il perfetto fascista intervene
 Anche il *Mondo della Cultura* si adegua facilmente alle richieste del regime, infatti scrittori, scienziati e storici non alzano mai la voce contro il fascismo per perseguire i loro lavori
 
 ## Monopolio della comunicazione
+C'è una pesante propaganda attraverso tutti i mezzi di comunicazione con lo scopo di creare un consenso attorno al fascismo. La pubblicazione delle notizie è sottoposta ad un rigido dirigismo, di conseguenza le notizie sono subordinate al vaglio per l'Ufficio per la stampa e la propaganda. Questo ufficio viene infine trasformato nel **Ministero della cultura popolare**(Minculpop).
+La direzione cinematografica diventa una potente arma politica e viene istituito l'*Istituto Luce*.
+L'ennesima penetrazione nella vita quotidiana viene attuata con la propagazione dei motti di Mussolini per le strade
 
+## I miti del Fascismo
+Viene creata una simbologia fascista che penetra nelle abitudini della popolazione:
+- Obbligo del saluto fascista
+- Introduzione del voi al posto del lei
+- Il fascio littorio dipinto dappertutto
+- Mitologia della romanità
+- Figura di Mussolini come duce (novello Cesare)
+- Celebrazione del regime (Marce in divisa, manifestazioni ecc...)
+
+## La politica estera
+Il fascismo aspira alla costruzione di un impero, specialmente per la sovraffolazione del meridione.
+Negli Anni Venti, il fascismo non crea preoccupazioni estere vedendo anche il *trattato di Rapallo*. L'Italia rafforza i rapporti con l'Austria e la aiuta nel difenderla dall'Anschluss e fa un accordo, Accordo di Stresa, con Francia e Regno Unito che prevede:
+- La riaffermazione del *Patto di Locarno*
+- Garantisce l'indipendenza dell'Austria
+- Reazione nel caso i firmatari del Trattato di Versailles avessero violato il trattato
+
+Mussolini, convinto della disattenzione di Francia e Spagna nel mantenere d'occhio la Germania, attua una svolta aggressiva verso il corno africano.
+In 7 mesi l'Italia attacca e conquista l'Etiopia, ma la Guerra rischia di diventare una campagna di logoramento a causa della guerriglia e della mancanza di rifornimenti. Dopo una serie di battaglie la resistenza Etiope viene sconfitta e Mussolini sul balcone di Piazza Venezia annuncia la nascita dell'**Impero dell'Africa orientale italiana**.
+Questa scelta riporta l'Italia ad un ruolo di grande potenza, ma entra in contrasto con le tendenze internazionali di relativo pacifismo. La Società delle Nazioni è l'unica che interviene con l'embargo su Roma
+
+> Embargo: provvedimento con il quale viene vietato il commercio di paricolari merci allo scopo di esercitare pressione politica
+
+Le sanzioni si domostrano inefficaci anche per il fatto che Germania e Stati Uniti continuano a rifornire l'Italia. Mussolini denuncia l'ostilità della Società delle Nazioni e quindi lancia una campagna in nome dell'*autarchia*: Invita la popolazione a consumare solo merci nazionali e a produrre di più per avvicinarsi all'obiettivo dell'autosufficienza alimentare e manufatturiera.
+Mussolini sottoscrive nel '36 il cosiddetto Asse Roma-Berlino, u'intesa di natura ideologica e politica tra dittature di destra.
+
+##Il 
 
 
 
