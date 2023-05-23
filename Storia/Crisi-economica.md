@@ -80,7 +80,7 @@ Le destre impuntano su una subordinazione totale di tutti gli aspetti della vita
 ### Il precario equilibrio democratico del Regno Unito
 In Regno Unito si verifica la crisi data dalla Grande Depressione americana, ma in minor misura. Si forma un Governo di unità nazionale(tipo Governo Tecnico) che riesce a eisollevare l'economia inglese.
 
-### La francia e il fronte Popolare
+### La Francia e il fronte Popolare
 In Francia c'è un Putsch dell'*action francaise* che fallisce per l'opposizione dell'esercito. Le sinistre si alleano con il Komintern per paura della destra e questo **Fronte popolare delle Sinistre** ottiene una netta vittoria nelle elezioni del '36. Questo Governo cade dopo 2 anni per cresecenti opposizioni e divisione interna tra socialisti e comunisti sul cosa fare nei confronti della guerra civile in Spagna
 
 ### La Spagna dalla monarchia alla repubblica
@@ -94,10 +94,10 @@ La sinistra ha come obiettivi:
 - Autonomia Comunità etniche come la Catalania
 - La riforma agraria
 
-### Dalla repubblica alla Rivolta dei Militari
+### Dalla Repubblica alla Rivolta dei Militari
 Le tensioni sociali in Spagna perdurano a causa dei tentativi della destra di riprendere il comando; infatti ci riesce con le elelzioni del'33. Vengono eliminate tutte le misure della sinistra e viene instaurato il biennio nero, una dura repressione contro operai e contadini. Le sinistre tornano al Governo nel '36, riprendendo il programma precedente. Tutti questi eventi sfociano in una ribellione verso il Governo. Inizia quindi la Guerra Civile spagnola.
 
-## Il crollo della Germania di Weimar
+## Il Crollo della Germania di Weimar
 
 ### La scarsa governabilità della Repubblica weimeriana
 Nel '28 si forma un Governo di coalizione. Grazie al piano Dawes si risolleva l'economia, ma comunque la governabilità rimane instabile. Quando arriva la Grande Depressione la Germania subisce un grande impatto su tutti i lati. Si è delusi della gestione da parte del Cancelliere. Esso si dimette e il parlamento viene sciolto inducendo nuove elezioni
