@@ -69,16 +69,32 @@ Negli Anni Venti, il fascismo non crea preoccupazioni estere vedendo anche il *t
 - Garantisce l'indipendenza dell'Austria
 - Reazione nel caso i firmatari del Trattato di Versailles avessero violato il trattato
 
-Mussolini, convinto della disattenzione di Francia e Spagna nel mantenere d'occhio la Germania, attua una svolta aggressiva verso il corno africano.
+Mussolini, convinto della disattenzione di Francia e Regno Unito nel mantenere d'occhio la Germania, attua una svolta aggressiva verso il corno africano.
 In 7 mesi l'Italia attacca e conquista l'Etiopia, ma la Guerra rischia di diventare una campagna di logoramento a causa della guerriglia e della mancanza di rifornimenti. Dopo una serie di battaglie la resistenza Etiope viene sconfitta e Mussolini sul balcone di Piazza Venezia annuncia la nascita dell'**Impero dell'Africa orientale italiana**.
 Questa scelta riporta l'Italia ad un ruolo di grande potenza, ma entra in contrasto con le tendenze internazionali di relativo pacifismo. La Società delle Nazioni è l'unica che interviene con l'embargo su Roma
 
-> Embargo: provvedimento con il quale viene vietato il commercio di paricolari merci allo scopo di esercitare pressione politica
+> Embargo: provvedimento con il quale viene vietato il commercio di particolari merci allo scopo di esercitare pressione politica su un paese
 
 Le sanzioni si domostrano inefficaci anche per il fatto che Germania e Stati Uniti continuano a rifornire l'Italia. Mussolini denuncia l'ostilità della Società delle Nazioni e quindi lancia una campagna in nome dell'*autarchia*: Invita la popolazione a consumare solo merci nazionali e a produrre di più per avvicinarsi all'obiettivo dell'autosufficienza alimentare e manufatturiera.
-Mussolini sottoscrive nel '36 il cosiddetto Asse Roma-Berlino, u'intesa di natura ideologica e politica tra dittature di destra.
+Mussolini sottoscrive nel '36 il cosiddetto Asse Roma-Berlino, un'intesa di natura ideologica e politica tra dittature di destra.
 
-##Il 
+## Il razzismo e antisemitismo fascista
+L'avvicinamento di Italia e Germania porta al bel paese una tendenza discriminatoria e razzista. Il razzismo italiano passa da un razzismo di dominio ad un razzismo di **eliminazione**.
+La politica razziale viene appoggiata dagli scienziati attraverso il Manifesto degli scienziati razzisti che sostenva l'esistenza di un fattore biologico che rendeva superiore la *razza ariana italiana*.
+Ci sono provvedimenti contro gli ebrei:
+- Docenti mandati a casa
+- Alunni costretti a frequentare scuole separate
+- ebrei stranieri espulsi dal paese.
+
+Inoltre viene attuata una norma che vieta il matrimonio tra ariani e altre razze.
+
+## La lunga attesa dell'antifascismo
+A causa del grande potere del fascismo, molte persone appartenenti alla corrente dell'antifascismo restano in attesa degli eventi per non rischiare.
+Questo fatto è vero per liberali e cattolici, tra cui rispettivamente Benedetto Croce e don Luigi Sturzo, personaggi troppo noti per venire uccisi dagli squadristi.
+La parte più militante di questo movimento è composta da democratici e socialisti, nell'Aprile 1927 a Parigi nasce la **Concentrazione antifascista** a cui appartiene anche Filippo Turati (Non è possibile mio padre). Questo movimento testimonia una grande resistenza antifascista estera.
+Nasce anche **Giustizia e Libertà** creato da due fratelli che si pongono l'obiettivo di un'insurrezione popolare contro il fascismo, ma vengono uccisi poco dopo da dei sicari francesi.
+L'opposizione più attiva al regime viene dai comunisti che creano una fitta rete di cellule clandestine. Fanno parte di questi movimenti Antonio Gramsci e Palmiro Togliatti, purtroppo non ottengono l'appoggio degli operai e lavoratori.
+Ciò che determina il malfunzionamento di tutti questi movimenti è la profonda divisione riguardo le responsabilità e la linea d'azione da seguire.
 
 
 
