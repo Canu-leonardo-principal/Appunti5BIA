@@ -41,7 +41,7 @@ Si passa dall'espulsione degli indesiderati al loro sterminio.
 ## Nazismo e vita dei tedeschi
 Anche il nazismo, come lo Stalinismo e il Fascismo, ottiene il controllo completo sulla vita dei cittadini.
 I sindacati vengono sostituiti dal Fronte del lavoro che rappresenta sia lavoratori che padroni.
-Seguendo ciò che è stato già scritto nel documento del [Fascismo Totalitario](Storia/Fascismo_Totalitario.md) ci sono varie misure che subordinano tutti gli aspetti della vita del cittadino secondo il regime nazista:
+Seguendo ciò che è stato già scritto nel documento del [Fascismo Totalitario](./Fascismo_Totalitario.md) ci sono varie misure che subordinano tutti gli aspetti della vita del cittadino secondo il regime nazista:
 - **"Forza attraverso gioia"**; permette anche a chi non può permetterselo di andare in vacanza
 - **Volkswagen**; la macchina del popolo per trasportare i cittadini tedeschi
 
