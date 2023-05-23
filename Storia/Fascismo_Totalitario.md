@@ -96,12 +96,10 @@ Nasce anche **Giustizia e Libertà** creato da due fratelli che si pongono l'obi
 L'opposizione più attiva al regime viene dai comunisti che creano una fitta rete di cellule clandestine. Fanno parte di questi movimenti Antonio Gramsci e Palmiro Togliatti, purtroppo non ottengono l'appoggio degli operai e lavoratori.
 Ciò che determina il malfunzionamento di tutti questi movimenti è la profonda divisione riguardo le responsabilità e la linea d'azione da seguire.
 
+By **Gioele Falaschi**, **Enrico Marinelli**, **Davide Cazzato**
 
 
-
-
-
-
+![becco-a-scarpa](https://github.com/Canu-leonardo-principal/Appunti5BIA/assets/94641181/d1ce01f7-dab5-481f-b136-84dc6eb45e40)
 
 
 
