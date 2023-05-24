@@ -3,7 +3,7 @@
 ## Gli Stati Uniti dal dopoguerra alla crisi del '29
 
 ### I *Roaring Twenties*
-Subito dopo l aproima guerra mondiale, gli USA vissero i cosiddetti Roaring Twenties, o ruggenti anni venti, descritti da Fitzegerald ne '*Il Grande Gatsby*', **cioè uno straordinario sviluppo economico e sociale**.  <br>
+Subito dopo la prima guerra mondiale, gli USA vissero i cosiddetti Roaring Twenties, o ruggenti anni venti, descritti da Fitzegerald ne '*Il Grande Gatsby*', **cioè uno straordinario sviluppo economico e sociale**.  <br>
 Fattori caratterizzanti i Roaring Twenties:
 - **Nessuna difficoltà nel risollevarsi dalla guerra**, poichè non aveva subito gravi sconfitte ed essa non si era combattuta sul suolo americano.
 - Investirono molto sulle terre europee, al fine di **creare un mercato di sbocco** per i loro capitali e le loro merci.
