@@ -7,6 +7,7 @@ Le corporazioni si suddividono in:
 - Mondo industriale
 - Mondo commerciale
 - Mondo dei servizi
+
 Non hanno nessun effettivo potere, ma costituiscono una parte fondamentale nell'ideologia fascista, tanto che sostituisce la camera dei deputati e prende il nome di camera dei fasci e delle corporazioni.
 
 ## Economia
