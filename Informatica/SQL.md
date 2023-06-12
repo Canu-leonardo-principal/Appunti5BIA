@@ -172,6 +172,50 @@ Utilizzato insieme a GROUP BY per filtrare i risultati in base a una condizione 
 SELECT colonna FROM tabella GROUP BY colonna HAVING COUNT(*) > 2;
 ```
 
+# PREDICATI SQL
+
+## ANY
+Viene utilizzato per confrontare un valore con una serie di valori restituiti da una subquery.Ritorna un booleano.
+Esso indicia se almeno uno dei valori restituiti dalla subquery soddisfa la condizione specificata.
+
+#### ESEMPIO:
+```sql
+SELECT colonna
+FROM tabella
+WHERE colonna = ANY (subquery);
+```
+## ALL
+Viene utilizzato per confrontare un valore con una serie di valori restituiti da una subquery. Ritorna un booleano.
+Esso indica se tutti i valori restituiti dalla subquery soddisfano la condizione specificata.
+
+#### ESEMPIO:
+```sql
+SELECT colonna
+FROM tabella
+WHERE colonna operatore ALL (subquery);
+```
+## IN
+Viene utilizzato per confrontare un valore con una lista di valori specificati.Ritorna un booleano.
+Esso indica se il valore confrontato è presente nella lista di valori specificati.
+
+#### ESEMPIO:
+```sql
+SELECT colonna
+FROM tabella
+WHERE colonna IN (valore1, valore2, valore3, ...);
+```
+
+## EXISTS
+Viene utilizzato per verificare l'esistenza di almeno una riga restituita da una subquery.Ritorna un booleano.
+Esso indica se la subquery restituisce almeno una riga.
+
+#### ESEMPIO:
+```sql
+SELECT colonna
+FROM tabella
+WHERE EXISTS (subquery);
+```
+
 <br><br>
 by ***Enrico Marinelli*** *5B-IA*
 
