@@ -172,7 +172,8 @@ Utilizzato insieme a GROUP BY per filtrare i risultati in base a una condizione 
 SELECT colonna FROM tabella GROUP BY colonna HAVING COUNT(*) > 2;
 ```
 
-
+<br><br>
+by ***Enrico Marinelli*** *5B-IA*
 
 
 
