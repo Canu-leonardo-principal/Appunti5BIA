@@ -45,10 +45,18 @@ Esempio del database soprastante con uno schema logico<br>
 `Studente: ID, Nome, Cognome, IDClasse;`<br
 `Classe: ID, Anno, Sezione;`<br
 
-Ci sono diversi casi in cui 2 tabelle si devono "fondere" in base alla relazione: <br>
-- 1 a N: la chiave della tabella "N" e gli attributi della relazione vengono messe anche in quella "1".
-- N a N: si crea una terza tabella, che contiere le chiavi delle 2 tabelle e gli attributi della relazione.
-- 1 a 1: le tabelle si fondono in una sola, completamente.    
+Con cardinalità si intende i valori minimi e massimi di un’associazione. In ogni associazione tra due
+entità troviamo due minimi e due massimi; per trovare la cardinalità estraiamo i due massimi e li
+mettiamo insieme, formando una nuova cardinalità. E’ fondamentale essere precisi nel definire i
+minimi, poiché se definiti incorrettamente, potremmo non avere informazioni precise sulla natura
+dell’entità e quindi non capire se potrebbe rivelarsi essere null o un qualunque numero nel minimo.
+Quando parliamo di cardinalità troviamo varie casistiche:
+- Cardinalità 1 a n: La chiave dell’entità con cardinalità minore viene inserita come Foreign Key
+nell’entità con cardinalità maggiore
+- Cardinalità 1 a 1: Gli attributi delle due entità vengono messi insieme creando un'unica entità
+- Cardinalità n a n: L’associazione viene considerata un’entità assestante formata dalle due
+chiavi primarie delle due entità allo scopo di inserire, se necessario, ulteriori attributi che
+implementino ulteriori funzioni  
 
 ---
 
