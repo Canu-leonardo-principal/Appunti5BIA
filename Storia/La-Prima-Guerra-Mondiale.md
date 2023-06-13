@@ -5,7 +5,7 @@ Le premesse che portarono allo scoppio della Grande Guerra erano:
 - il **Revanscismo** della Francia verso la Germania. Che sfociò quasi in un conflitto per il **Marocco**.
 - lo **Scontro nell'area balcanica** tra Austia-ungheria e Russia per insediarsi a discapito dell'impero ottomano ormai in decadenza. La Russia puntava allo **Stretto dei Dardanelli** per lo sbocco sul mare. Mentre l'Austria puntava ad un rafforzamento nella penisola balcanica.
 - la *Weltpolitik* (politica mondiale) della Germania inaspriva le **ralazioni tra Berlino e Londra**.
-- tutte le maggiori potenze erano in competizione per il **monopolio dei mercati intenazionali** e per **la corsa al riarmo**.
+- tutte le maggiori potenze erano in competizione per il **monopolio dei mercati internazionali** e per **la corsa al riarmo**.
 - la rivalità tra **Italia e Austria** per le *terre irredenti*.
 
 ---
@@ -29,7 +29,7 @@ Scoppiarono così numerose manifestazioni dette *radiose giornate di maggio* da 
 ---
 
 ## Il Fronte occidentale
-A causa dell'entrata delle diverse fazioni, la *Germania* si ritrova a combattere su die fronti. *Guglielmo II* decide quindi di attaccare e sconfiggere la Francia in **una guerra lampo**, detta *BlitzKrieg* passando per il Belgio e **scatenando le ire dell Regno Unito**, che entrerà in guerra dopo quell'accaduto. 
+A causa dell'entrata delle diverse fazioni, la *Germania* si ritrova a combattere su due fronti. *Guglielmo II* decide quindi di attaccare e sconfiggere la Francia in **una guerra lampo**, detta *BlitzKrieg* passando per il Belgio e **scatenando le ire dell Regno Unito**, che entrerà in guerra dopo quell'accaduto. 
 Purtroppo, nostante l'assalto a sorpresa, i francesi **bloccano l'avanzata tedesca poco prima di Parigi**, modificando il Blitzkrieg in un guerra di posizione. La Germania si ritriva costretta a combattere la guerra su due fronti, anche a seguito dell'attacco a **Galissia** dei **Russi**.
 > Gia nell'autunno del 1914 la guerra **sul fronte occidentale era già diventata una guerra di logoramento**.
 
@@ -43,20 +43,20 @@ Queste furono 3 battaglie intraprese dalla Germania per tentare di concludere il
 ---
 
 ## La guerra sui mari
-Si avviò anche una guerra navale tra **Rego Unito e Germania a Nord** ma nessuno riuscì a prevalere. I tedeschi decisero quindi di ritirare le navi nei porti, e il Regno Unito sfruttò il momento per attuare **il blocco navale** per impedire alle risorse Americade di reggiungere Austria e Germania. 
+Si avviò anche una guerra navale tra **Regno Unito e Germania a Nord** ma nessuno riuscì a prevalere. I tedeschi decisero quindi di ritirare le navi nei porti, e il Regno Unito sfruttò il momento per attuare **il blocco navale** per impedire alle risorse Americane di reggiungere Austria e Germania. 
 Berlino rispose, quindi, con un controblocco formato dalla sua **nuova armata sottomarina** che attaccò le navi inglesi, ma non solo, anche dei paesi neutrali. <a id="Lusitania"></a>**Portando all'evento di Lusitania**, motivo principale dell'**entrata in guerra dell'America**.
 
 ---
 
 ## Il Fronte orientale
-Sul fronte orientale, a diferenza di quello occidentale, si strutturò una **guerra di movimento** tra *Austria-Ungheria e Genrmania contro la Russia*. **I russi non si rivelarono pronti alla guerra**, vi furono diversi ammutinamenti, i soldati non erano adeguamente adddestrati i comandanti si trovarono totalmente inpreparati. Queste debolezze **permisero ai tedeschi e agli austriaci di pentrare profondamente nei territori russi**, **grazie all'aiuto anche della Bulgaria**.
-la Romania tentò di dare manforte alla russia ma venne invasa e sconfitta rapidamente. La guerra su questo fronte finì in maniera inaspettata: con [la rivoluzione russa](./La-Rivoluzione-Russa.md) e la caduta della dinastia romanov la russia si trovò costretta a firmare un armistizio di pace. **Così nel 1917, con la salita al potere dei *bolshevichi di Lenin*, la russia uscì dalla guerra.**
+Sul fronte orientale, a diferenza di quello occidentale, si strutturò una **guerra di movimento** tra *Austria-Ungheria e Germania contro la Russia*. **I russi non si rivelarono pronti alla guerra**, vi furono diversi ammutinamenti, i soldati non erano adeguamente adddestrati i comandanti si trovarono totalmente inpreparati. Queste debolezze **permisero ai tedeschi e agli austriaci di pentrare profondamente nei territori russi**, **grazie all'aiuto anche della Bulgaria**.
+la Romania tentò di dare manforte alla russia ma venne invasa e sconfitta rapidamente. La guerra su questo fronte finì in maniera inaspettata: con [la rivoluzione russa](./La-Rivoluzione-Russa.md) e la caduta della dinastia Romanov la russia si trovò costretta a firmare un armistizio di pace. **Così nel 1917, con la salita al potere dei *bolshevichi di Lenin*, la russia uscì dalla guerra.**
 
 ---
 
 ## Il fronte dei Balcani
-Gli equilibri nei balcani furono rotti dopo **l'entrata in guerra dell'Impero Ottomano** a fianco dell'Austria-Ungheria e dai **giovani turchi**. Gli Inglesi provarono subito a piegare Istambul sullo *stretto dei Dardanelli*, ma durante **la battaglia Gallipoli** gli Inglesi pfurno sconfitti. Subiyo dopo Germania, Austria,e Bulgaria attaccarono e sconfissero la Serbia.
-Gli ottimani, **esausti dopo la battaglia di Gallipoli**, non avevano più le forze per procedere nella guerra, e in oltre furono costretti a combattere **le rivolte arabe istigate dagli inglesi**. Inoltre, sfruttando il diversivo della guerra, gli ottomani ripresero la **pulizia etnica degli armeni** accusati di:
+Gli equilibri nei balcani furono rotti dopo **l'entrata in guerra dell'Impero Ottomano** a fianco dell'Austria-Ungheria e dai **giovani turchi**. Gli Inglesi provarono subito a piegare Istanbul sullo *stretto dei Dardanelli*, ma durante **la battaglia Gallipoli** gli Inglesi furono sconfitti. Subito dopo Germania, Austria,e Bulgaria attaccarono e sconfissero la Serbia.
+Gli ottomani, **esausti dopo la battaglia di Gallipoli**, non avevano più le forze per procedere nella guerra, e in oltre furono costretti a combattere **le rivolte arabe istigate dagli inglesi**. Inoltre, sfruttando il diversivo della guerra, gli ottomani ripresero la **pulizia etnica degli armeni** accusati di:
 - tramare contro l'impero
 - volere l'indipendenza
 - essere alleati della russia zarista.
@@ -66,34 +66,34 @@ Uccisero anche diversi armeni nell'esercito. Questo atto fu chiamato **genocidio
 ---
 
 ## Il fronte Italiano
-Il fronte Italiano fu combattuto tra il friuli e trentino. l'obiettivo principali degli italiano era trieste, ma i guadagni in quanto a terreni erano pochi rispetto al costo in morti. L'austria provò, con la *strafexpedition*, a punire Roma, ma furono fermati fermati in veneto e respinti quasi tempestivamente.
-Le truppe italiane erano guidate dal *generale Luigi Cadorna*, una fugura molto controverza: era **totalmente impreparato alla nuova guerra**, agiva in maniera troppo indipendente e la sua stategia constava nel inviare quanti più soldati possibili.
+Il fronte Italiano fu combattuto tra il Friuli e Trentino. l'obiettivo principale degli italiano era Trieste, ma i guadagni in quanto a terreni erano pochi rispetto al costo in morti. L'austria provò, con la *strafexpedition*, a punire Roma, ma furono fermati in veneto e respinti quasi tempestivamente.
+Le truppe italiane erano guidate dal *generale Luigi Cadorna*, una figura molto controversa: era **totalmente impreparato alla nuova guerra**, agiva in maniera troppo indipendente e la sua strategia constava nell'inviare quanti più soldati possibili.
 Papa Benedetto XV tentò inoltre di fermare la guerra con un appello alle parti belligeranti definendola *un'inutile strage*.
 La Germania e l'Austria-Ungheria tentarono un attacco sul fronte Italiano utilizzando le truppe libere rientrate dal fronte russo. **Così riuscirono a spezzare la linea italiana sul fiume Isonzo** e si spinsero in profonità, fino alla Padania.
 Gli alti gradi italiani diedero ordini contraddittori e confusi e Cadorna addossò la colpa ai soldati italiani, provocando diversi scioperi e ammutinamenti, in più decise di non dare assistenza ai soldati catturati.
-Cadorna fu destituito e al auo posto salì al comando Armando Diaz, che con un approccio più comprensivo di quello del suo predecessore fece diverse promesse ai soldati, e con una nuova ondata di patriottismo dimostrarono il loro valore, con un data di patriottismo. L'italian riuscì a fermare l'vanzata tedesca e austriaca sul fiume Piave. 
+Cadorna fu destituito e al auo posto salì al comando Armando Diaz, che con un approccio più comprensivo di quello del suo predecessore fece diverse promesse ai soldati, e con una nuova ondata di patriottismo dimostrarono il loro valore. Gli italiani riuscirono a fermare l'avanzata tedesca e austriaca sul fiume Piave e sul Monte Grappa. 
 
 ---
 
 ## L'intervento degli Stati Uniti
-**Nel 1917 gli Stati Uniti decisero di dichiarare guerra alla Germania**, già infastiditi dalla condotta Germanica sugli oceani furono convinti dall'[evento di Lusitania](#Lusitania) e dai 14 piunti Wilson.
+**Nel 1917 gli Stati Uniti decisero di dichiarare guerra alla Germania**, già infastiditi dalla condotta Germanica sugli oceani furono convinti dall'[evento di Lusitania](#Lusitania) e dai 14 punti di Wilson.
 I 14 punti di Wilson erano una dichiarazione principalmente contro gli isolazionisti e:
-- rifiutavano l'autoritarismo degli imperi centrali e i condcetti alla case dell'imperialismo
+- rifiutavano l'autoritarismo degli imperi centrali e i concetti alla base dell'imperialismo
 - predicavano il **principio di autodeterminazione dei popoli**
-- sostenevano la **piena libertà di navigaione sugli oceani**
-- chiedevanoabolizione diplomazia segreta
+- sostenevano la **piena libertà di navigazione sugli oceani**
+- chiedevano l'abolizione della diplomazia segreta
 - proponevano una soluzione alle questioni coloniali
-- parlavano di un nuovo ipotetico asseto europeo
-- auspicavano la creazione della **Sdn** o società delle nazioni <a id="Sdn"></a>
+- parlavano di un nuovo ipotetico assetto europeo
+- auspicavano la creazione della **Sdn** o Società delle Nazioni <a id="Sdn"></a>
 
-Questa dichiarazione portò molto entusiasmo all'interno degli statidell'intesa, mentre quelli dell'altra fazione **cominciarono a mutare le proprie strategie**, preparandosi all'arrivo dei rinforzi americani. 
+Questa dichiarazione portò molto entusiasmo all'interno degli stati dell'intesa, mentre quelli dell'altra fazione **cominciarono a mutare le proprie strategie**, preparandosi all'arrivo dei rinforzi americani. 
 
 ---
 
 ## Il crollo della Germania e Austria
-nel 1918, a seguito di un potente attacco delle forze tedesche sul punto di intersezione delle truppe inglesi e francesi, **riuscirono ad arrivare fino in profondità nel territorio farcese**. Ma furono bloccati e respinti a cauda dell'arrivo di un milione di soldati americani. Si avviò così una lunga serie di sconfitte per la Germania, e quella determinante pefu quella della battaglia **Amiens** .
-Il crollo fu, tuttavia, interno, e portò alla proclamazione della repubblica, dopo la fuga di Guglielmo II . La germania firmò il trattato di pace, arrendendosi senza condizioni. Nacque così il mito della pugnalata alle spalle, perchè non furono sconfitti in una vera propria battaglia decisiva, e quindi l'opinione comune pensava di aver perso la guerra a causa dei politici.
-Gli italiani **sconfissero definitivamente gli austriaci a Vittorio Veneto**, facendogli firmare l'armistizio. Subito Carlo Primo abbandonò il suo paese e l'Austria diventò una repubblica. La Bulgaria e l'Impero Ottomano, privi delle forze e delle risorse si devettero arrendere. 
+nel 1918, a seguito di un potente attacco delle forze tedesche sul punto di intersezione delle truppe inglesi e francesi, **riuscirono ad arrivare fino in profondità nel territorio francese**. Ma furono bloccati e respinti a causa dell'arrivo di un milione di soldati americani. Si avviò così una lunga serie di sconfitte per la Germania, e quella determinante fu quella della battaglia di **Amiens**.
+Il crollo fu, tuttavia, interno, e portò alla proclamazione della repubblica, dopo la fuga di Guglielmo II . La Germania firmò il trattato di pace, arrendendosi senza condizioni. Nacque così il mito della pugnalata alle spalle, perchè non furono sconfitti in una vera propria battaglia decisiva, e quindi l'opinione comune pensava di aver perso la guerra a causa dei politici.
+Gli italiani **sconfissero definitivamente gli austriaci a Vittorio Veneto**, facendogli firmare l'armistizio. Subito dopo Carlo Primo abbandonò il suo paese e l'Austria diventò una repubblica. La Bulgaria e l'Impero Ottomano, privi delle forze e delle risorse si devettero arrendere. 
 > La guerra, come anticipato dall'inizio, **la vinse chi resistette più a lungo**
 
 ---
@@ -104,7 +104,7 @@ Questa nuova guerra richiese un numero molto maggiore di persone, costringendo a
 Mancando gli uomini, le donne furono costrette a svolgere tutti i lavori che prima toccavano ai maschi fabbrica, e in questa maniera acquisirono più consapevolezza aumentando la quantità di **lotte per i loro diritti**.
 Vi fu, inoltre, un grande sviluppo economico, con **nuove invenzioni** e la **nuova economia di guerra**.
 Anche il cosìddetto fronte interno ebbe un ruolo fondamentale utilizz: grazie al  forte controllo dell'opinione pubblica esercitato soprattutto dagli imperi centrali:
-- **condizionò la stampa**, aiutando a migliorare l'opinione pubblica riguard alla guerra 
+- **condizionò la stampa**, aiutando a migliorare l'opinione pubblica riguardo alla guerra 
 - si fcero molte e lunghe **campagne di reclutamento**
 - **venne punito di ogni tipo di disfattismo**
 
@@ -112,9 +112,9 @@ Anche il cosìddetto fronte interno ebbe un ruolo fondamentale utilizz: grazie a
 
 ## I Trattati di pace
 I trattati principali firmati al termine della guerra furono:
-- **Trattato di Versailles**: che impose durissime condizioni alla Germania, e la constrinze a restituire molti territori e a pagare enormi debiti.
-- i **Trattati di Saint Germain e del Trianon**: riconoscevano la leggitimità dell'impero Austro-Ungarico e, grazie al principio di autodeterminazione dei popoli sanciva la nascita di Cecoslovacchia e Jugoslavia.
-- **Trattato di Neuilly**: ridceva il territorio della Bulgaria
+- **Trattato di Versailles**: che impose durissime condizioni alla Germania, e la constrinse a restituire molti territori e a pagare enormi debiti.
+- i **Trattati di Saint Germain e del Trianon**: riconoscevano la legittimità dell'impero Austro-Ungarico e, grazie al principio di autodeterminazione dei popoli sanciva la nascita di Cecoslovacchia e Jugoslavia.
+- **Trattato di Neuilly**: riduceva il territorio della Bulgaria
 - **Trattato di Sevres**: diceva che l'Impero Ottomano doveva cedere i suoi territori in medio oriente alla Francia e all'Inghilterra.
 
 ---
