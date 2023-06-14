@@ -1,5 +1,5 @@
 # Alcyone
-un'estatte di d'annunzio che ha trascritto sotto forma di libro, era in sostanza la pausa dal **super uomo** (uber mench), divisa in 5
+un'estatte di d'annunzio che ha trascritto sotto forma di viaggio di un grande eore, era in sostanza la pausa dal **super uomo** (uber mench), divisa in 5
 sezione ambientati in posti differenti:
 
 1. ambientata in paesaggi agresti tra fiesole e firenze nel periodo di giugno (contiene la sera fiesolana).
