@@ -1,7 +1,7 @@
 ## Appunti su d'annunzio
 ### introduzione 
 
-esperto nell'usare la propaganda e nel promuovere se stesso, d'annunzio è un uomo di spicco nella società, ha un gran carisma. 
+esperto nell'usare la propaganda e nel promuovere se stesso, d'annunzio è un uomo di spicco nella società, ha un gran carisma lui ' il super uomo. 
 famoso per essere un donnaiolo, un esteta è anche un gran inventore di parole (Imaginifico è la sua antonomasia). Nella sua poetica
 sono di **grande rilevanza** la musicità, dolceza, creatività e l'attaccamento alla natura (panismo). riesce a portare le tendenze europee in italia.
 
