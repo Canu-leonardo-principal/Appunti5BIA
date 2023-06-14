@@ -22,5 +22,25 @@ trattative tra le due potenze insieme alla Polonia e l'URSS ma il mancato raggiu
 di pacificazione, il **Patto Molotov-Ribbentrop**, con la quale le due potenze mettevano a sicuro i loro fronti. La Germania forte di questo patto decise di entrare in Polonia con la forza, a questo punto il 3 settembre 
 1939 Francia ed Inghilterra dichiararono guerra alla Germania, mentre l'Italia nonostante il Patto d'acciaio non entrerà subito in guerra.
 
+## Fasi della guerra
+- Fase 1: Vittorie Tedesche, (Danimarca,Norvegia annesse) caduta della Francia, Inghilterra resiste e si passa ad una guerra di logoramento
+- Fase 2: Caduta Italia-Germania-Giappone
 
+## Resistenza Regno Unito
+Churchill rifiuta qualsiasi tipo di compromesso di pace, resiste grazie alla Royal Air Force(aviazione inglese) e resiste anche dagli attacchi sottomarini. La legge americana di "affitti e prestiti" fa sì che il Regno Unito ottenga incessanti scorte, nonostante quindi l'abbattimento di molte scorte da parte dei tedeschi il Regno Unito era constantemente rifornito.
 
+## Operazione Barbarossa
+Hitler decide di proseguire la sua idea di "spazio vitale" e decide di attaccare L'URSS con la cosiddetta operazione Barbarossa, riesce a sorprendere Stalin ed a entrare in Russia, ma Stalin deciso a fermare i tedeschi richiami i propri sudditi ad una "guerra patriottica" e tramite la strategia della terra bruciata e grazie ad il freddo gelido riesce, l'esercito tedesco viene sconfitto.
+
+## L'Italia in guerra
+L'Italia come al solito fa cacare, è impreparata e quindi in comune accordo Mussolini ed Hitler decidono di affermare la non belligeranza italiana, ma Mussolini colpito dalle vittorie tedesche decide di entrare in guerra prematuramente poichè si vede in un duo con Hitler a capeggiare l'intero globo, spoiler Hitler non la pensava così. L'Italia fatica con Grecia,Africa e tutti gli avversari, inoltre nonostante l'aiuto tedesco, l'Italia perde anche l'impero in Africa.
+
+## Arrivano gli States
+Gli Stati Uniti stavano seguendo la loro idea di isolazionismo, ma dopo appunto la legge "Affitti e Prestiti" gli USA decidono di iniziare a prendere a parte alla guerra, stipulando la Carta Atlantica dove illustrava i principi di democrazia, libertà e cooperazione tra Stati. Il Giappone aveva preso parte al patto d'acciaio facendolo diventare "patto tripartito", i rapporti tra USA e Giappone si stavano già inasprendo a causa della politica espansionistica dei nipponici, in più l'attacco di Pearl Arbor, dove la base militare degli USA venne bombardata dai nipponici. Gli Stati Uniti dichiaranao così guerra al Giappone entrando di fatti in guerra contro Germania ed Italia.
+
+## Avanzata dell'Asse
+La Germania tenta un altro colpo in Russia, riuscendo a penetrare, ma venendo sconfitta nuovamente grazie ad un attacco a tenaglia che porterà infatti alla sconfitta dell'esercito nazista.L'asse prova ad avanzare anche in Africa ma trova difficoltà e sconfitte anche lì.
+
+## La caduta del fascismo
+La grande debolezza ed inadeguatezza italiana fanno clamore all'interno del paese, e si evidenziano dal costante bisogno dell'aiuto tedesco e dalle pesanti sconfitte. La sconfitta pesante in Russia porta ad un forte dissenso del fronte interno, a causa dei bombardamenti e del razionamento del cibo gli italiani erano sempre più scontenti e le pesanti sconfitte peggioravano il tutto. La perdita dell'Africa espose l'Italia ad un attacco diretto degli americani, le truppe statunitensi sbarcarono in Sicilia, il 25 luglio Mussolini fu arrestato, al governo salì Pietro Badoglio, in Italia si portò avanti una specie di fascismo senza Mussolini.
+Le Germania prepara un'operazione in caso l'Italia li tradisse, e con la firma dell'armistizio nel 1943, i tedeschi entrano in Italia, portando così il centro-nord italiano sotto il nazismo con capitale Salò ed il regno del sud in mano a Vittorio Emanuele III.
