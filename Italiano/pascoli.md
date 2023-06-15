@@ -5,4 +5,3 @@
 
 ### poetica
 
-### panismo 
