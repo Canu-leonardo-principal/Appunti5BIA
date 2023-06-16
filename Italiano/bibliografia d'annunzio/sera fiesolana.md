@@ -1,16 +1,22 @@
 ### parafrasi 
 
 ### riassunto
-Prima strofa: Il Poeta passeggia nella campagna con la donna amata. Sta per calare la sera e dinnanzi a loro un contadino, in cima ad una scala, raccoglie le foglie del gelso. All’orizzonte la luna sta sorgendo e diffonde sulla campagna il proprio chiarore.
-Prima lauda: Il poeta loda la sera che ha le sembianze di una donna dal viso perlaceo e dai grandi occhi umidi.
-Seconda strofa: Il poeta rivolge alla donna parole dolci come la pioggia primaverile che cade con picchiettii leggeri sulla natura, sui gelsi, gli olmi, i vigneti, i giovani pini, sugli olivi, sul grano e sul fieno mietuto e ricopre tutto di una luce sfumata.
-Seconda lauda: Il poeta loda la sera che ha le sembianze di una donna vestita dei profumi della vegetazione e stretta in vita da una cintura come un fascio di fieno tenuto insieme da un ramo di salice.
-Terza strofa: le parole del poeta riveleranno all’amata il mistero sacro della sera, il segreto custodito dalla natura che ogni volta si rinnova.
-Terza lauda: Continua la lode della sera vista adesso nel momento di sospensione in cui, con l’apparire delle prime stelle, lentamente si spegne nel buio della notte
+**Prima strofa:** 
+Il Poeta passeggia nella campagna con la donna amata. Sta per calare la sera e dinnanzi a loro un contadino, in cima ad una scala, raccoglie le foglie del gelso. All’orizzonte la luna sta sorgendo e diffonde sulla campagna il proprio chiarore.
+**Prima lauda:**
+Il poeta loda la sera che ha le sembianze di una donna dal viso perlaceo e dai grandi occhi umidi.
+**Seconda strofa:**
+Il poeta rivolge alla donna parole dolci come la pioggia primaverile che cade con picchiettii leggeri sulla natura, sui gelsi, gli olmi, i vigneti, i giovani pini, sugli olivi, sul grano e sul fieno mietuto e ricopre tutto di una luce sfumata.
+**Seconda lauda:**
+Il poeta loda la sera che ha le sembianze di una donna vestita dei profumi della vegetazione e stretta in vita da una cintura come un fascio di fieno tenuto insieme da un ramo di salice.
+**Terza strofa:**
+le parole del poeta riveleranno all’amata il mistero sacro della sera, il segreto custodito dalla natura che ogni volta si rinnova.
+**Terza lauda:** 
+Continua la lode della sera vista adesso nel momento di sospensione in cui, con l’apparire delle prime stelle, lentamente si spegne nel buio della notte
 
 
 ### metrica
-La sera fiesolana si compone di tre strofe di 14 versi liberi variamente rimati e con assonanze; ogni strofa è seguita da una ripresa di tre versi in forma di lauda alla sera. Strofe e riprese sono concluse da un quinario.
+La sera fiesolana si compone di tre strofe da 14 versi liberi variamente rimati e con assonanze; ogni strofa è seguita da una ripresa di tre versi in forma di lauda alla sera. Strofe e riprese sono concluse da un quinario (5 sillabe).
 La rima non è regolare e a volte si ripete come dare il senso dell’eco.
 
 ### figure retoriche 
@@ -24,3 +30,6 @@ La rima non è regolare e a volte si ripete come dare il senso dell’eco.
 - polisindeto (vv. 23-29; su i gelsi e su gli olmi e su le viti / e su i pini … / e su il grano … / e su ‘l fieno … / e su gli olivi).
 - vv. 30 è presente un’anastrofe.
 - vv. 47-48 è presente una figura etimologica (amare / d’amor).
+
+By ***Samuele Maranghi*** 5BIA 
+Feat. **Gioele Falaschi**, **Leonardo Canu**, **Lory Bartolozzi**, **Alessandro Somigli**
