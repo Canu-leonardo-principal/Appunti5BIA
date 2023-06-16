@@ -6,3 +6,6 @@ Un'Estate di D'Annunzio che ha trascritto sotto forma di viaggio di un grande er
 3. Ambientata in estate piena (Versilia), viene fatto un maggiore ricorso a temi e elementi che trattano la mitologia.
 4. Ambientata nella fine dell'estate (Versilia) e i primi giorni di settembre.  
 5. Ambientata nel periodo di settembre, addio a versilia e ci sono temi della perdita della giovinezza a causa della fine dell'amata estate che appunto la rappresenta. La giovinezza è collegata all'aspirazione Nel commiato di questa sezione c'è un saluto ed una dedica a Pascoli.
+
+By ***Samuele Maranghi*** 5BIA 
+Feat. **Gioele Falaschi**, **Leonardo Canu**, **Lory Bartolozzi**, **Alessandro Somigli**
