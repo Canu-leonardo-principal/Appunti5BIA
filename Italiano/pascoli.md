@@ -9,3 +9,4 @@ nato come 4 figlio in una famiglia di dieci fratelli, pascoli subirà fin da gio
 simbolista con elementi naturali e significati molto ricercati quasi da toccare l'estetismo, pascoli è l'esatto contro altare di d'annunzio.
 pubbblica il **manifesto della poetica del fanciullo**, un manifesto di poetica che pascoli adotterà per tutta la sua fase da *'orfanello'*. 
 in sostanza il manifesto dice: *'in ognuno di noi c'è ancora un fanciullo ma solo nel poeta questo è vivo'* chiaro riferimento alla esaltazione della figure del poeta presente nel simbolismo e al fatto che il poeta simbolista è un vate.
+importanti figure da sapere nella sua poetica sono il nido che rappresenta la famiglia e boh c'è leggetevi x agosto è la perfetta rappresentaizone della poetica pscoliana.
