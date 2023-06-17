@@ -42,8 +42,8 @@ Esemprio di database con uno schema ER, con anche le relazioni
 
 ## Lo schema logico
 Esempio del database soprastante con uno schema logico<br>
-`Studente: ID, Nome, Cognome, IDClasse;`<br
-`Classe: ID, Anno, Sezione;`<br
+`Studente: ID, Nome, Cognome, IDClasse;`<br>
+`Classe: ID, Anno, Sezione;`<br>
 
 Con cardinalità si intende i valori minimi e massimi di un’associazione. In ogni associazione tra due
 entità troviamo due minimi e due massimi; per trovare la cardinalità estraiamo i due massimi e li
