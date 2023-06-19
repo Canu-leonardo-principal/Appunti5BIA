@@ -3,7 +3,7 @@
 Italo Svevo apre un nuovo mondo della letteratura italiana.
 Per Svevo la letteratura non è esibizione, ma scrittura concepita al di fuori di qualsiasi tipo di estetismo, concepita invece come pratica privata di tipo anche terapeutico.
 Svevo ha una forte tendenza all'umorismo, utilizzando un lessico basso e lievemente comico, inoltre egli accetta e dà per scontata la perdita dell'aureola del poeta.
-E' molto lontano dalle ricerche dei giovani che cercavano di eliminare i generi tradizionali, la sua rilta è meno esibita e violenta ma molto più profonda, infatti non respinge il romanzo ma 
+E' molto lontano dalle ricerche dei giovani che cercavano di eliminare i generi tradizionali, la sua rivolta è meno esibita e violenta ma molto più profonda, infatti non respinge il romanzo ma 
 lo rivoluziona totalmente tramite la sua opera maggiore: "La coscienza di Zeno", dove il tempo oggettivo viene sostituito dalla coscienza e dal monologo interiore. Anche la narrazione viene distrutta
 e sostituita da temi in successione(matrimonio,fumo,morte del padre, ecc.), anche il protagonista subisce una mutazione passando da un personaggio statico più aperto ai canoni novecenteschi di Joyce, Proust ecc.
 Svevo è quindi il romanziere italiano più europeo del nostro Novecento.
