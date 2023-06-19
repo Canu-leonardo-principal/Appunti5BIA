@@ -26,7 +26,7 @@ viene utilizzato come metodo di critica della società e del sistema economico.
 Da Schopenauer riprende alcuni strumenti di analisi e critica, ne riprende soprattutto la capacità di cogliere gli autoinganni ed il carattere effimero dei desideri umani.
 Da Nietzsche riprende la pluralità dell'io e la psicoanalisi solamente come tecnica di conoscenza.
 Infatti egli rifiuta la psicoanalisi come terapia, ciò lo vediamo ne "La coscienza di Zeno", dove si evidenzia la difesa dei diritti degli "*AMMALATI*" rispetto ai "sani", la nevrosi è anche un segno positivo per Svevo
-di non rassegnazione ai meccanismi alienati della civiltà. L'ammalato è colui che non vuole rinunciare alla dorza del desiderio, il poeta difende la propria *inettitudine*, una forma di resistenza all'alienazione circostante.
+di non rassegnazione ai meccanismi alienati della civiltà. L'ammalato è colui che non vuole rinunciare alla forza del desiderio, il poeta difende la propria *inettitudine*, una forma di resistenza all'alienazione circostante.
 Altro pensiero di Svevo è la letteratura concepita come recupero e salvaguardia della vita, soltanto se l'esistenza sarà narrata sarà possibile sottrarsi alla vita orrida e vera.
 
 
