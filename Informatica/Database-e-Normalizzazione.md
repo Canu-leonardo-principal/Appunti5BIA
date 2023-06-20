@@ -8,7 +8,7 @@ Ogni transazione deve:
 - essere **atomica** ovvero non visibile dall'esterno e non può essere interrotta
 - essere **consistente** ovvero dice che un database deve essere coerente
 - essere **isolation** ovvero non si può vedere cosa succede durante una transazione
-- essere **durabie** ovvero il suo effetto deve essere permanente
+- essere **durable** ovvero il suo effetto deve essere permanente
 Tutto si racchiude nell'acronimo **ACID**.
 
 Esiste anche un sistema di **rollback**, che permette far di tornare il database al momento prima della transazione.
