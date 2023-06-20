@@ -56,7 +56,7 @@ nell’entità con cardinalità minore
 - Cardinalità 1 a 1: Gli attributi delle due entità vengono messi insieme creando un'unica entità
 - Cardinalità n a n: L’associazione viene considerata un’entità assestante formata dalle due
 chiavi primarie delle due entità allo scopo di inserire, se necessario, ulteriori attributi che
-implementino ulteriori funzioni  
+implementino ulteriori funzioni
 
 ---
 
