@@ -100,10 +100,7 @@ L'europa è divisa in diverse sfere di influenza:
 
 L' unione sovietica alla fine è quella che trae più vantaggio.
 
-<br>
-<br>
-by ***Davide Cazzato, Alessandro Somigli, Leonardo Canu, Gioele Falaschi, Enrico Marinelli, Lorenzo Bartolozzi, Sudhir Schiavone, :)***
-<br>
+by ***Davide Cazzato, Alessandro Somigli, Leonardo Canu, Gioele Falaschi, Enrico Marinelli, Lory Bartolozzi, Sudhir Schiavone***
 
 ---
 
