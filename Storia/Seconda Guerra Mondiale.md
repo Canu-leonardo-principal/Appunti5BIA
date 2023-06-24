@@ -100,14 +100,19 @@ L'europa è divisa in diverse sfere di influenza:
 
 L' unione sovietica alla fine è quella che trae più vantaggio.
 
-<br><br>
+<br>
+<br>
 by ***Davide Cazzato, Alessandro Somigli, Leonardo Canu, Gioele Falaschi, Enrico Marinelli, Lorenzo Bartolozzi, Sudhir Schiavone, :)***
 <br>
+
 ---
+
 # memes:
 ## DE GAULLE CHE TORNA IN FRANCIA
 ![spider-man-2099-across-the-spider-verse](https://github.com/Canu-leonardo-principal/Appunti5BIA/assets/117520199/3a7b20cf-33c2-4210-988a-308ec8604485)
 <br>
+
 ---
+
 ## L'ultimo tedesco che vede i suoi compagni sterminati dal nonno di Ale
 ![download](https://github.com/Canu-leonardo-principal/Appunti5BIA/assets/117520199/a417a8f9-9c27-4485-b585-49f2d3b82443)
