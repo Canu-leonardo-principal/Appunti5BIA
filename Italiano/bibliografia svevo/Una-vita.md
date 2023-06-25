@@ -15,4 +15,9 @@ La struttura dell'opera si ispira a molti modelli romanzeschi: arrampicata socia
 Inoltre tra le altre caratteristiche è possibile notare vari parallelismi tra Svevo e il protagnista, quali:
 - fanno entrambi lo stesso lavoro
 - entrambi hanno l'ooportunità di sposare la figlia di un personaggio impotante e salire di classe
--hanno entrambi delle tendenze letterarie, ma mentre Svevo riesce a scrivere, Nitti ha solo delle velleità
+-hanno entrambi delle tendenze letterarie, ma mentre Svevo riesce a scrivere, Nitti ha solo delle velleità <br> <br><br>
+
+By **Davide Cazzato?!**
+<br>
+<br>
+feat. **Lory Bartolozzi, Enrico Marinelli, Gioele Canu, Leonardo Falaschi, Alessandro Somigli**
