@@ -15,4 +15,9 @@ coraggio e decisione, così si struttura un fascino della trasgressione e dall'a
 Si ha quindi una decadenza della visione borghese con Emilio che vede la donna come oggetto e come "da educare" per il fatto che fa parte di un ceto minore, vorrebbe imporsi su di lei ma non riesce, possiamo dire che 
 la donna può rappresentare inoltre la realtà poichè Emilio prova a controllarla ma gli sfugge dal controllo.
 Come detto da Montale si ha un quadrilatero perfetto di personaggi con Emilio e Balli contrapposti tra loro e Amalia e Angiolina contrapposte tra loro, da qui nasce un altro quadrilatero con Emilio ed Amalia
-che sono gli sconfitti ed Angiolina e Balli che hanno più fortuna con l'altro sesso.
+che sono gli sconfitti ed Angiolina e Balli che hanno più fortuna con l'altro sesso. <br><br>
+
+By **Davide Cazzato?!**
+<br>
+<br>
+feat. **Lory Bartolozzi, Enrico Marinelli, Gioele Falaschi, Leonardo Canu, Alessandro Somigli**
