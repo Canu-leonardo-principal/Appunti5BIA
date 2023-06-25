@@ -20,4 +20,4 @@ Inoltre tra le altre caratteristiche è possibile notare vari parallelismi tra S
 By **Davide Cazzato?!**
 <br>
 <br>
-feat. **Lory Bartolozzi, Enrico Marinelli, Gioele Canu, Leonardo Falaschi, Alessandro Somigli**
+feat. **Lory Bartolozzi, Enrico Marinelli, Gioele Falaschi, Leonardo Canu, Alessandro Somigli**
