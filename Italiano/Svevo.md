@@ -30,6 +30,11 @@ di non rassegnazione ai meccanismi alienati della civiltà. L'ammalato è colui 
 Altro pensiero di Svevo è la letteratura concepita come recupero e salvaguardia della vita, soltanto se l'esistenza sarà narrata sarà possibile sottrarsi alla vita orrida e vera.<br>
 Un ulteriore opinione di Svevo, riguardo Freud, definisce utile la psicoanalisi, ma non per aiutare i pazienti ma solo per scopi scientifici.
 
+## SVEVOVERSE
+![download](https://github.com/Canu-leonardo-principal/Appunti5BIA/assets/98812524/f5a9243c-eccb-4479-8394-a05c68663468)
+
+
+
 By **Davide Cazzato?!**
 <br>
 <br>
