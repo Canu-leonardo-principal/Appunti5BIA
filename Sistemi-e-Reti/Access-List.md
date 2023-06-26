@@ -13,8 +13,9 @@ Diverse attività eseguite dai router richiedono l'uso di ACL per identificare i
 - Esaminare l'host per consentire o negare l'accesso ai servizi di rete
 - Fornire priorità a determinate classi di traffico di rete
 
-Prima di andare a dire i due tipi di ACL prncipali è giusto andare ad introdurre un'altra tipologia importante:
-**-ACL Whitelist:** scrivi la gente che vuoi abbia accesso.
+### IMPORTANTE!!!<br>
+Prima di andare a dire i due tipi di ACL prncipali è giusto andare ad introdurre un'altra tipologia importante:<br>
+**-ACL Whitelist:** scrivi la gente che vuoi abbia accesso.<br>
 **-ACL Blacklist:** scrivi la gente che vuoi "bloccare"/filtrare, ed una regola in fondo che permette tutto il resto.
 
 
