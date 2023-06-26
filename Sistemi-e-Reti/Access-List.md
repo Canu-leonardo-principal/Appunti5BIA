@@ -13,6 +13,11 @@ Diverse attività eseguite dai router richiedono l'uso di ACL per identificare i
 - Esaminare l'host per consentire o negare l'accesso ai servizi di rete
 - Fornire priorità a determinate classi di traffico di rete
 
+Prima di andare a dire i due tipi di ACL prncipali è giusto andare ad introdurre un'altra tipologia importante:
+**-ACL Whitelist:** scrivi la gente che vuoi abbia accesso.
+**-ACL Blacklist:** scrivi la gente che vuoi "bloccare"/filtrare, ed una regola in fondo che permette tutto il resto.
+
+
 ## Tipi di ACL
 I router Cisco supportano due tipi di ACL:
 - **ACL standard**: Gli ACL filtrano solo al livello 3 controllando solo l'indirizzo IPv4 di origine.
@@ -31,7 +36,7 @@ Quando un ACL viene applicata a un'interfaccia, segue una procedura operativa be
 - Quando viene effettuata una corrispondenza, il router esegue l'istruzione, consentendo o negando il pacchetto, e gli ACE rimanenti nell'ACL, se presenti, non vengono analizzati.
 - Se l'indirizzo IPv4 di origine non corrisponde ad alcun ACE nell'ACL, il pacchetto viene scartato perché è presente un ACE di negazione implicita applicato automaticamente a tutti gli ACL.
 
-!!! L'ultima istruzione ACE di un ACL è sempre una negazione implicita che blocca tutto il
+**!!!NOTA IMPORTANTE:!!!** L'ultima istruzione ACE di un ACL è sempre una negazione implicita che blocca tutto il
 traffico. È nascosto e non visualizzato nella configurazione.
 
 ## La Maschera Jolly (wildcard)
