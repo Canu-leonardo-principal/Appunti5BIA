@@ -30,6 +30,7 @@ Gli utenti che utilizzano una **Remote-access VPN** possono accedere dalla rete 
     - è un server che permette l’accesso alla rete.
     - può essere un server dedicato oppure un’applicazione software in esecuzione su un  server condiviso.
     - richiede credenziali valide per accedere, utilizzando un proprio processo di autenticazione.
+    - fornisce Authentication, Authorization e Accounting. :)
 - *sfotware VPN client*
     - software pensato ad hoc necessario per stabilire e mantenere una connessione alla rete VPN.
     - è necessario anche un firewall che fornisca una barriera.
