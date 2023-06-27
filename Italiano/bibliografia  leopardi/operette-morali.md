@@ -1,0 +1,6 @@
+# Operette morali
+Le "Operette Morali" sono 22 prose scritte, quasi tutte nel 1824, e furono pubblicate in 3 edizioni, bloccate dalla censura.
+Il titolo indica da una parte la brevità dei testi e dall'altra il loro carattere satirico, mentre l'aggettivo "morali" indica il carattere morale dei testi che vogliono smascherare la morale tradizionale e i suoi pregiudizi, come ad esempio la convinzione che l'uomo abbia un posto privilegiato nell'universo.
+Leopardi vuole proporre nuovi modelli di comportamento per reagire all'infelicità e lo fa ricorrendo all'ironia.
+Lo stile delle "Operette Morali" alterna il registro comico e quello tragico, utilizzando diversi stili poiché Leopardi cercava di dare nella sua opera una lingua filosofica moderna.
+La differenza principale tra Manzoni e Leopardi è l'atteggiamento che essi hanno verso il pubblico: per Manzoni, il pubblico borghese che leggeva la sua opera aveva il compito di costruire una società giusta e cristiana, mentre per Leopardi il pubblico era detentore di tutte le superstizioni che egli voleva smascherare.
