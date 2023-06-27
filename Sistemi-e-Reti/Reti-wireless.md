@@ -129,7 +129,4 @@ Authentication Protocol) su parte wireless e parte
 cablata, che utilizza
 un server di autenticazione.
 
-- Implementata con protocollo EAP (Extensible
-Authentication Protocol) su parte wireless e parte
-cablata, che utilizza
-un server di autenticazione.
+
