@@ -46,22 +46,22 @@ per lo scambio di dati con altre organizzazioni)
 ### IAAS 
 Fornisce un un'infrastruttura base di computer(Macchina virtuale).
 Cosa gestiamo noi:
--Applications
--Data 
--Runtime
--Middleware
--O/S
+- Applications
+- Data 
+- Runtime
+- Middleware
+- O/S
 
 ### PAAS
 Fornisce piattaforme e ambienti di sviluppo, testing e managing di un'applicazione(Fornisce un SO per la 
 creazione di un'app)
 Cosa gestiamo noi:
--Applications
--Data 
+- Applications
+- Data 
 
 
 ### SAAS
 I fornitori di servizi cloud ospitano e gestiscono l'applicazione
  software in base a un modello di tariffazione con pagamento in base al consumo. (Office 365)
 Cosa gestiamo noi:
--NULLA
+- NULLA
