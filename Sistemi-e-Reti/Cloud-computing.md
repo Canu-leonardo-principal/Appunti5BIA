@@ -19,7 +19,7 @@ Viene utitlizzato per usufruire di un software da remoto, viene affittata per po
 ## Cloud computing vs on-premise computing
 |                **On-premise computing**                |             **Cloud Computing**             |
 |:------------------------------------------------------:|:-------------------------------------------:|
-| paghi per quello che ti serve                          | paghi di più con minore scalabilità         |
+| paghi di più con minore scalabilità                    | paghi quello che ti serve                   |
 | C'è bisogno di uno spazio per il Server                | Non c'è bisogno di uno spazio per il Server |
 | C'è bisogno di un team per gestire hardware e software | Non hai bisogno di un team                  |
 | Sicurezza dati non garantita                           | Migliore sicurezza dati                     |
