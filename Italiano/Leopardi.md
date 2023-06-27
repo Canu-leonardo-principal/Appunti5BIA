@@ -49,3 +49,7 @@ si dedica alla scrittura delle "operette morali".
 Tuttavia, l'autore offre una speranza agli esseri umani, invitandoli a ridurre il dolore e a crescere attraverso la solidarietà e l'amore fraterno. 
 In questa fase, la poesia assume un ruolo civile e presenta l'idea che tutti gli uomini possano diventare "titani".
 
+By **Lorenzo Salanitro**
+<br>
+<br>
+feat. **Enrico Marinelli**
