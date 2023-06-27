@@ -4,3 +4,8 @@ Il titolo indica da una parte la brevità dei testi e dall'altra il loro caratte
 Leopardi vuole proporre nuovi modelli di comportamento per reagire all'infelicità e lo fa ricorrendo all'ironia.
 Lo stile delle "Operette Morali" alterna il registro comico e quello tragico, utilizzando diversi stili poiché Leopardi cercava di dare nella sua opera una lingua filosofica moderna.
 La differenza principale tra Manzoni e Leopardi è l'atteggiamento che essi hanno verso il pubblico: per Manzoni, il pubblico borghese che leggeva la sua opera aveva il compito di costruire una società giusta e cristiana, mentre per Leopardi il pubblico era detentore di tutte le superstizioni che egli voleva smascherare.
+
+By **Lorenzo Salanitro**
+<br>
+<br>
+feat. **Enrico Marinelli**
