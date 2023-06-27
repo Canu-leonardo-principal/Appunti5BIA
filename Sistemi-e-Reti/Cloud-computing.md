@@ -1,9 +1,9 @@
 # Cloud Computing
 ## Cos'è?
 Insieme di tecnologie che attraverso la rete Internet fornisce, da remoto, agli utenti 3 tipi di servizi:
--Hardware (CPU, RAM, Connessione alla rete)
--Storage (Immagazzinamento dati)
--Software (Sistema operativo, DBMS, posta elettronica, ed altre applicazioni)
+- Hardware (CPU, RAM, Connessione alla rete)
+- Storage (Immagazzinamento dati)
+- Software (Sistema operativo, DBMS, posta elettronica, ed altre applicazioni)
 
 ## Hardware as a service
 Viene utilizzato quando si ha un pc scarso ed abbiamo la necessità di fare calcoli lunghi e complessi, si inviano dei dati da far elaborare al pc remoto, il computer esegue poi i calcoli,
