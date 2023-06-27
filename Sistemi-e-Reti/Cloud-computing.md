@@ -38,7 +38,7 @@ servizi fruibili attraverso un Web Browser)
 un'azienda o organizzazione che li gestisce attraverso la sua rete 
 privata, o la rete di un'azienda terza)
 - Ibrido (Entrambe le caratteristiche dei precedenti, utilizzati da 
-organizzazioni governative per custodire informazoini sensibili e
+organizzazioni governative per custodire informazioni sensibili e
 per lo scambio di dati con altre organizzazioni)
 
 ## Tipi di servizi Cloud
