@@ -73,28 +73,28 @@ la realizzazione di infrastrutture;
 ## Sicurezza nelle reti wireless
 ### Possibili attacchi:
 
-**sniffing**
+**sniffing**:
 Attività di intercettazione passiva dei dati che transitano
 in una rete. Usato per monitorare il traffico
 o intercettazione fraudolenta di dati sensibili.
 Efficaci meccanismi di crittografia consentono
 di mantenere la segretezza dei dati.
 
-**accesso non autorizzato**
+**accesso non autorizzato**:
 Accesso a una rete privata senza esplicita autorizzazione.
 La tecnica più utilizzata è quella di servirsi di un Access
 Point Rouge (APR) cioè un AP non autorizzato.
 Per ostacolare l’accesso non autorizzato, è necessaria
 l’autenticazione reciproca tra i WT e gli AP.
 
-**sostituzione del SID (Security IDentifier):spoofing**
+**sostituzione del SID (Security IDentifier):spoofing**:
 Sostituzione del SID (identificativo univoco a cui vengono
 associate delle autorizzazioni) posizionando un Wireless
 Terminal Rouge tra un utente e un Access Point.
 Per evitarlo, si può usare il protocollo SARP (Secure ARP),
 che fornisce un tunnel protetto tra client e AP o router.
 
-**attacco DoS**
+**attacco DoS**:
 Attacchi brute force, oppure attacchi che utilizzano forti
 segnali radio che si sovrappongono ai segnali della rete
 rendendo inutilizzabili gli AP e i wireless terminal.
