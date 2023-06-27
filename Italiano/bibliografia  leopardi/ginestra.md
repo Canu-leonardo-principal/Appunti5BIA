@@ -1,4 +1,5 @@
 # La Ginestra
+La ginestra è una poesia che fa parte della raccolta "I Canti".
 Nel poema, Leopardi utilizza la ginestra come simbolo della condizione umana e della natura stessa. L'autore esplora temi come l'infelicità,
 il dolore, la solitudine e la consapevolezza della brevità della vita. La ginestra diventa un'immagine della fragilità e della fugacità dell'esistenza umana, 
 ma anche della sua forza e del suo potenziale di crescita.
