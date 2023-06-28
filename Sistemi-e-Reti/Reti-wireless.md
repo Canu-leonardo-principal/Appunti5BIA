@@ -118,7 +118,7 @@ ed autenticazione reciproca
 
 ## AUTENTICAZIONE
 - Realizzata tramite il SSID, Access Point consente accesso
-solo se SSID coincide con quello inviato dall'Access Poit stesso
+solo se SSID coincide con quello inviato dall'Access Point stesso
 
 - Amministratore autorizza un elenco di indirizzi MAC, solo 
 gli indirizzi appartenenti all'elenco vengono accettati dall'
