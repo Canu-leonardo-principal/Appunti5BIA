@@ -110,7 +110,7 @@ simmetrica RC4
 ma parte con chiave temporale rigenerata ad ogni pacchetto
 
 - AES (Advanced Encryption Standard)  Indecifrabile grazie
-all'utilizzo dell'algoritmo di crittografia a blocci Rijndael
+all'utilizzo dell'algoritmo di crittografia a blocchi Rijndael
 
 - WPA (Wi-Fi Protected Area)
 Aggiornamento WEP dotato di distribuzione dinamica chiavi
