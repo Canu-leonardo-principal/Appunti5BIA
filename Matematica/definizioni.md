@@ -1,7 +1,8 @@
 # Definizioni un sacco utili
 
 - ### Definizione di derivata
-    La derivata di una funzione in un punto è il limite del rapporto incrementale al tendere dell'incremento h a zero. Il rapporto incrementale in un punto di una funzione è il rapporto tra la variazione di ordinate e la variazione di ascisse definite a partire da un incremento h.
+    La derivata di una funzione in un punto è il limite del rapporto incrementale al tendere dell'incremento h a zero.
+  (La derivata è l'inclinazione di una retta che unisce due punti di una funzione la cui distanza tende ad eseere 0). Il rapporto incrementale in un punto di una funzione è il rapporto tra la variazione di ordinate e la variazione di ascisse definite a partire da un incremento h.
   ![](https://www.youmath.it/images/joomlatex/1/f/1fcb6fb2f19416aa146a9fe0c653b8e6.gif); definizione di rapporto incrementale.
 
 - ### Significato geometrico e definizione di derivata
