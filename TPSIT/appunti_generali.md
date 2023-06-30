@@ -69,6 +69,11 @@ Questo modello può essere organizzato in più architetture, come:
  
  **- three tier:** il database gestisce il data layer, il server gestisce la buisness logic e il client gestisce la user interface. (caso php, SSR)
 
+## XML & JSON
+Serializzazione: rappresentazione di un dato in un certo formato.
+XML: si utilizza tra aziende diverse, è presente un file di configurazione che definisce i campi dell'oggetto.
+JSON: nella stezza azienda
+
 
 ## REST & SOAP:
 REST e SOAP sono due modi con cui un web server può comunicare con un client.
