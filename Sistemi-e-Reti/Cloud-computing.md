@@ -14,7 +14,7 @@ Viene utilizzato per immagazzinare dei dati e recuperarli quando si è lontani d
 dispositivo attraverso un meccanismo di sincronizzazione di dati.
 
 ## Software as a service
-Viene utitlizzato per usufruire di un software da remoto, viene affittata per poche ore o pochi giorni l'applicazionee viene utilizzata da remoto.
+Viene utitlizzato per usufruire di un software da remoto, viene affittata per poche ore o pochi giorni l'applicazione viene utilizzata da remoto.
 
 ## Cloud computing vs on-premise computing
 |                **On-premise computing**                |             **Cloud Computing**             |
